@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=9x7G4f3o90Q&list=PLVz2XdJiJQxyB4Sy29sAnU3Eqz0pvGCkD&index=4&ab_channel=JavaTechieJavaTechie
+
+call api /customers and customers/stream to see the diff between async and sync
